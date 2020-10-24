@@ -1,8 +1,4 @@
-print (345/112)
-print (345/112)
-print (345/112)print (345/112)
-print (345/112)print (345/112)print (345/112)
-print（download）
+print (1+2)
 
 
 
