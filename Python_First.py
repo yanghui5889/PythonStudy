@@ -4,7 +4,3 @@ result=1+2
 a=s+str(result)
 print(y)
 print(a)
-
-
-
-
